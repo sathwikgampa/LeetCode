@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sathwikgampa/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/sathwikgampa/LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sathwikgampa/LeetCode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sathwikgampa/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sathwikgampa/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
