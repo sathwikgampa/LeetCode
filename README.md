@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sathwikgampa/LeetCode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/sathwikgampa/LeetCode/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
