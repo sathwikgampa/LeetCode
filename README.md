@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sathwikgampa/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/sathwikgampa/LeetCode/tree/master/0075-sort-colors) |
+| [0560-subarray-sum-equals-k](https://github.com/sathwikgampa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sathwikgampa/LeetCode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sathwikgampa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sathwikgampa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
