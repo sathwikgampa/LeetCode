@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sathwikgampa/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/sathwikgampa/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sathwikgampa/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathwikgampa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/sathwikgampa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sathwikgampa/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sathwikgampa/LeetCode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -51,5 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sathwikgampa/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathwikgampa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sathwikgampa/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sathwikgampa/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
